@@ -11,7 +11,7 @@ Phone: +62-813-1679-5396
 E-mail: fastac.sias@gmail.com  
 
 
-#### Office:
+#### Office
 PT Sumber Inti Aneka Sempana  
 Jl. Raya Meruya Utara No. 10A  
 Kav. DKI Blok 6  
