@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: Fastac Indonesia
-description: Adhesive label Manufacturer
+title: Fastac Adhesive Label
+description: PT. Sumber Inti Aneka Sempana, Adhesive label Manufacturer
 logo: /assets/img/logo640x400.png
-show_downloads: false
+
+github:
+  is_project_page: false
