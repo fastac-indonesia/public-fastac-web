@@ -1,6 +1,8 @@
 # Fastac
 
-Website currently under construction
+Indonesia Adhesive Label Manufacturer  
+
+*** Website currently under construction ***
 
 #### Marketing
 Alexa Widjaja  
